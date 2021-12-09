@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+My name is Patrik and I'm working hard getting on board at GitHub! ;)
+
+![image](https://user-images.githubusercontent.com/7755055/145449482-127d2c50-71a9-4d1a-9ea6-930dd587278f.png)
 
 <!--
 **patrikpolyak/patrikpolyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
