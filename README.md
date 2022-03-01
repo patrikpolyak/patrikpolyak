@@ -1,13 +1,13 @@
 # Hi! 👋
 
-<img align="left" width="200" src="https://user-images.githubusercontent.com/7755055/145540632-65b6bc2b-2720-44f9-bbee-35a577fead55.png">
-
 My name is Patrik (he/him) and I'm working as a Customer Reliability Engineer at GitHub.
+
+<img align="left" width="200" src="https://user-images.githubusercontent.com/7755055/145540632-65b6bc2b-2720-44f9-bbee-35a577fead55.png">
 
 - 🏠 Hungarian 🇭🇺 based in Stockholm, Sweden 🇸🇪
 - 🌱 I’m currently learning more about GitHub Enterprise products.
 - 😄 I like playing squash 🎾, snowboarding 🏂 and playing video games 🎮
-- 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/patrikpolyak/) if you'd like to connect.
+- 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/patrikpolyak/) if you'd like to connect
 - ⚡ Fun fact: I collect PEZ dispensers 🍬 and music festival wristbands 🎵
 
 <!--
