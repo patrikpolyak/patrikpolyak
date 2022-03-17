@@ -8,6 +8,7 @@ My name is Patrik (he/him) and I'm working as a Customer Reliability Engineer at
 - 🌱 I’m currently learning more about GitHub Enterprise products.
 - 😄 I like playing squash 🎾, snowboarding 🏂 and playing video games 🎮
 - 📫 Hit me up on [LinkedIn](https://www.linkedin.com/in/patrikpolyak/) if you'd like to connect
+- 💬 Talk to me about  git, Linux, AWS 💻, football ⚽, or Formula 1 🏎
 - ⚡ Fun fact: I collect PEZ dispensers 🍬 and music festival wristbands 🎵
 
 <!--
